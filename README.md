@@ -1,5 +1,4 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
-ONCE THIS THING IS FORMALLY GRADED, CHANGE TO: https://wokwi.com/projects/460309072403660801
 # Tiny Tapeout Wokwi Project Template
 
 - [Read the documentation for project](docs/info.md)
